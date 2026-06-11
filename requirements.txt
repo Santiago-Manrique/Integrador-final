@@ -1,4 +1,3 @@
 Flask
 gunicorn
 pytest
-pip install -r requirements.txt
